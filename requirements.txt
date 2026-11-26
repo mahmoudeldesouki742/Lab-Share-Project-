@@ -1,0 +1,2 @@
+# LabShare uses Python standard library modules only.
+# No external packages are required.
